@@ -26,3 +26,7 @@ The function should sum the elements of the list until the sum is greater than 9
 the function should return the sum. If the sum of all of the elements is never greater than 9000, 
 the function should return total sum of all the elements. If the list is empty, the function should return 0.
 
+# Max Num
+Create a function named max_num() that takes a list of numbers named nums as a parameter.
+The function should return the largest number in nums.
+
