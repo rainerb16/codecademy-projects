@@ -30,3 +30,8 @@ the function should return total sum of all the elements. If the list is empty, 
 Create a function named max_num() that takes a list of numbers named nums as a parameter.
 The function should return the largest number in nums.
 
+# Same Values
+Write a function named same_values() that takes two lists of numbers of equal size as parameters.
+The function should return a list of the indices where the values were equal in lst1 and lst2.
+For example, the following code should return [0, 2, 3]
+
