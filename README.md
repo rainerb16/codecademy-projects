@@ -40,3 +40,8 @@ Create a function named reversed_list() that takes two lists of the same size as
 The function should return True if lst1 is the same as lst2 reversed. The function should return False otherwise.
 For example, reversed_list([1, 2, 3], [3, 2, 1]) should return True.
 
+# Boredless Tourist [PROJECT]
+The Boredless Tourist, an online application giving you the power to find the parts of the city that fit the pace of your life. We at The Boredless Tourist run a recommendation engine using Python. We first evaluate what a person’s interests are and then give them recommendations in their area to venues, restaurants, and historical destinations that we think they’ll be engaged by.
+
+Check the file by running the code in git bash: python3 script.py
+
