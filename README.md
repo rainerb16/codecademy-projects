@@ -19,3 +19,10 @@ Return a new list containing every number in bases raised to every number in pow
 Create a function named larger_sum() that takes two lists of numbers as parameters named lst1 and lst2.
 The function should return the list whose elements sum to the greater number.
 If the sum of the elements of each list are equal, return lst1.
+
+# Over 9000
+Create a function named over_nine_thousand() that takes a list of numbers named lst as a parameter.
+The function should sum the elements of the list until the sum is greater than 9000. When this happens, 
+the function should return the sum. If the sum of all of the elements is never greater than 9000, 
+the function should return total sum of all the elements. If the list is empty, the function should return 0.
+
