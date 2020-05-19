@@ -15,3 +15,7 @@ The function should then return this new list.
 Create a function named exponents() that takes two lists as parameters named bases and powers. 
 Return a new list containing every number in bases raised to every number in powers.
 
+# Larger Sum
+Create a function named larger_sum() that takes two lists of numbers as parameters named lst1 and lst2.
+The function should return the list whose elements sum to the greater number.
+If the sum of the elements of each list are equal, return lst1.
